@@ -1,0 +1,32 @@
+{
+	"CurrentLevelIndex" : {
+		"__type" : "System.Int32",
+		"value" : 0
+	},
+	"PlayerModelIndex" : {
+		"__type" : "System.Int32",
+		"value" : 2
+
+	},
+	"SoundSettings" : {
+		"__type" : "System.Boolean",
+		"value" : true
+
+
+
+
+
+
+	},
+	"MusicSettings" : {
+		"__type" : "System.Boolean",
+		"value" : true
+
+
+
+
+
+
+
+	}
+}
